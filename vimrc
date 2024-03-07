@@ -12,4 +12,5 @@ let $RC="$HOME/.vim/vimrc"
 set path=.,**
 
 " Import macros for MAXIMUM OVERDRIVE.
-source "$HOME/.vim/macros.vim"
+source $HOME/.vim/macros.vim
+
