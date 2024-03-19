@@ -1,6 +1,7 @@
 " Kraww!!
 filetype plugin indent on
 syntax on
+syntax sync maxlines=10000
 set backspace=start,eol,indent
 set hidden
 set noswapfile
