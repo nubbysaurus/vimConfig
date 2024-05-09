@@ -16,3 +16,4 @@ set path=.,**
 " Import macros for MAXIMUM OVERDRIVE.
 source $HOME/.vim/macros.vim
 
+setlocal shiftwidth=4 tabstop=4 softtabstop=4 expandtab autoindent smartindent
