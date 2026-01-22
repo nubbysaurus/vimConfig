@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Script ripped from David Winterbottom's "Writing Markdown in Vim":
+# https://codeinthehole.com/tips/writing-markdown-in-vim/
+set -e
+
+function main()
+{
+	open "dict://$1"
+}
+
+main "$1"
